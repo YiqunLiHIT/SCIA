@@ -1,4 +1,4 @@
-Package: scia
+Package: SCIA
 Type: Package
 Title: Self-contained and Competitive Incorporated method for gene set
         Analysis
@@ -11,4 +11,4 @@ License: everyone
 Imports: ICSNP, clusterProfiler, igraph
 LazyLoad: yes
 NeedsCompilation: no
-Packaged: 2018-06-04 10:13:51 UTC; HIT-2E310
+Packaged: 2018-06-05 11:33:16 UTC; HIT-2E310

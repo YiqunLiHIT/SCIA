@@ -27,12 +27,12 @@ vector
 ##generating a simulated dataset
 a<-rnorm(500,1,1)
 a<-matrix(a,5,100)
-b<-rnorm(500,1,1)
-b<-matrix(a,5,100)
+b<-rnorm(500,1.3,1)
+b<-matrix(b,5,100)
 matr<-cbind(a,b)
 cla<-c(rep(1,100),rep(2,100))
 
-c.test(matr,cla)
+c.test(matr,cla,cor=TRUE)
 ##testing with a background pathway
 nam = c("TP53","ZNF1","ZNF2","ZNF3","ZNF7")
 net = cbind(c("TP53","ZNF1","ZNF2","ZNF3"),c("ZNF1","ZNF2","ZNF3","ZNF7"))

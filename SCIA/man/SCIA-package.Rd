@@ -1,25 +1,25 @@
-\name{scia-package}
-\alias{scia-package}
-\alias{scia}
+\name{SCIA-package}
+\alias{SCIA-package}
+\alias{SCIA}
 \docType{package}
 \title{
-\packageTitle{scia}
+\packageTitle{SCIA}
 }
 \description{
-\packageDescription{scia}
+\packageDescription{SCIA}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{scia}
-\packageIndices{scia}
+\packageDESCRIPTION{SCIA}
+\packageIndices{SCIA}
 ~~ An overview of how to use the package, including the most important ~~
 ~~ functions ~~
 }
 \author{
-\packageAuthor{scia}
+\packageAuthor{SCIA}
 
-Maintainer: \packageMaintainer{scia}
+Maintainer: \packageMaintainer{SCIA}
 }
 \references{
 ~~ Literature or other references for background information ~~
