@@ -3,34 +3,14 @@
 \alias{SCIA}
 \docType{package}
 \title{
-\packageTitle{SCIA}
+\packageTitle{Self-contained and Competitive Incorporated method for gene set
+        Analysis}
 }
 \description{
-\packageDescription{SCIA}
-}
-\details{
-
-The DESCRIPTION file:
-\packageDESCRIPTION{SCIA}
-\packageIndices{SCIA}
-~~ An overview of how to use the package, including the most important ~~
-~~ functions ~~
+This package is designed to establish a conditional specific shortest-path network (CSSPN) and functional enrichment analysis with expression profile
 }
 \author{
-\packageAuthor{SCIA}
+\packageAuthor{Yiqun Li}
+Maintainer: \packageMaintainer{liyiqunhehe@msn.cn}
+}
 
-Maintainer: \packageMaintainer{SCIA}
-}
-\references{
-~~ Literature or other references for background information ~~
-}
-~~ Optionally other standard keywords, one per line, from file KEYWORDS ~~
-~~ in the R documentation directory ~~
-\keyword{ package }
-\seealso{
-~~ Optional links to other man pages, e.g. ~~
-~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
-}
-\examples{
-~~ simple examples of the most important functions ~~
-}
