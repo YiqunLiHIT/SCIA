@@ -3,8 +3,7 @@
 \alias{SCIA}
 \docType{package}
 \title{
-\packageTitle{Self-contained and Competitive Incorporated method for gene set
-        Analysis}
+\packageTitle{SCIA}
 }
 \description{
 This package is designed to establish a conditional specific shortest-path network (CSSPN) and functional enrichment analysis with expression profile
