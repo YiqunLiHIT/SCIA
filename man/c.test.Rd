@@ -37,7 +37,7 @@ c.test(matr,cla,cor=TRUE)
 nam = c("TP53","ZNF1","ZNF2","ZNF3","ZNF7")
 net = cbind(c("TP53","ZNF1","ZNF2","ZNF3"),c("ZNF1","ZNF2","ZNF3","ZNF7"))
 
-c.test(matr,cla,cor=TRUE,nam,net)
+c.test(matr,cla,cor=TRUE,nam=nam,net=net)
 }
 
 \author{
